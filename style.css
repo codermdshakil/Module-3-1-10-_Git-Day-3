@@ -8,5 +8,30 @@ h1{
     text-align: center;
     color: orange;
     padding:20px;
-    
+
+}
+h2{
+    color: orangered;
+    margin:20px 30px 40px 50px;
+}
+p{
+    margin: 10px;
+    font-size: 18px;
+    color: palevioletred;
+}
+h4{
+    font-size: 18px;
+    color: black;
+    margin: 10px 20px 40px 50px;
+}
+.demo{
+    width: 50%;
+    margin:0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+}
+.demo p{
+    font-size: 18px;
+    color: black;
 }
